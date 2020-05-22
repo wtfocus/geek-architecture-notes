@@ -187,4 +187,8 @@
 -   **模板模式**，Java Servlet、JUnit TestCase、Java InputStream、Java AbstractList。
 -   **享元模式**，Integer 类中 -128～127 之间的整型对象是可以复用的。
 -   **职责链模式**，Java Servlet 中的 Filter、Spring 中的 interceptor。拦截器、过滤器这些功能绝大部分都是采用职责链模式来实现的。
--   
+-   **迭代器模式**，我们重点剖析了 Java 中的 Iterator 迭代器的实现。
+
+### 重点回顾
+
+-   **在真实的项目开发中， 如何灵活应用设计模式，做到活学活用，能够根据具体的场景、需求，做灵活的设计和实现上的调整**。这也是新手和老手最大的区别。
