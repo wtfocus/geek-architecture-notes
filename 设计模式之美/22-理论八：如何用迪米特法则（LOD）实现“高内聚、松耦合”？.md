@@ -23,7 +23,7 @@
 #### “内聚”和“耦合”之间的关系
 
 -   如下图，左边部分的代码结构是“高内聚、松耦合”; 右边部分正好相反，是“低内聚、紧耦合”。
-    -   ![img](/Users/wangtao/playcrab/learn/geek-notes/设计模式之美/imgs/62275095f1f5817cad8a9ca129a6ec3c.jpg)
+    -   ![img](imgs/62275095f1f5817cad8a9ca129a6ec3c.jpg)
 
 -   分析
     -   左边部分的代码设计中，
